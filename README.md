@@ -1,4 +1,4 @@
-# medi
+# Medicine Reminder App
 
 A new Flutter project.
 
